@@ -1,1 +1,1 @@
-Visit this site at https://dhimike.github.io/internetlicenseservicesstatuslocal/
+Visit this site at https://github.com/dhimike/internetlicenseservicesstatuslocal/issues/
